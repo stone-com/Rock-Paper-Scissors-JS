@@ -1,0 +1,33 @@
+.scoretable {
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.scoretable td,
+.scoretable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.scoretable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #04aa6d;
+  color: white;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+button {
+   margin: 0 auto;
+   display: block;
+   font-size: 24px;
+   border: 3px solid #04aa6d;
+   margin-top: 20px;
+}
